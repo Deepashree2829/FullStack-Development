@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikhi\\Documents\\FullStackDevelopment\\SourceCode-GitHub\\FullStack.API\\FullStack.API\\FullStack.API.csproj": {}
+    "c:\\Users\\nikhi\\Documents\\FullStackDevelopment\\SourceCode-GitHub\\FullStack.API\\FullStack.API\\FullStack.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikhi\\Documents\\FullStackDevelopment\\SourceCode-GitHub\\FullStack.API\\FullStack.API\\FullStack.API.csproj": {
+    "c:\\Users\\nikhi\\Documents\\FullStackDevelopment\\SourceCode-GitHub\\FullStack.API\\FullStack.API\\FullStack.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikhi\\Documents\\FullStackDevelopment\\SourceCode-GitHub\\FullStack.API\\FullStack.API\\FullStack.API.csproj",
+        "projectUniqueName": "c:\\Users\\nikhi\\Documents\\FullStackDevelopment\\SourceCode-GitHub\\FullStack.API\\FullStack.API\\FullStack.API.csproj",
         "projectName": "FullStack.API",
-        "projectPath": "C:\\Users\\nikhi\\Documents\\FullStackDevelopment\\SourceCode-GitHub\\FullStack.API\\FullStack.API\\FullStack.API.csproj",
+        "projectPath": "c:\\Users\\nikhi\\Documents\\FullStackDevelopment\\SourceCode-GitHub\\FullStack.API\\FullStack.API\\FullStack.API.csproj",
         "packagesPath": "C:\\Users\\nikhi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikhi\\Documents\\FullStackDevelopment\\SourceCode-GitHub\\FullStack.API\\FullStack.API\\obj\\",
+        "outputPath": "c:\\Users\\nikhi\\Documents\\FullStackDevelopment\\SourceCode-GitHub\\FullStack.API\\FullStack.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
